@@ -1,5 +1,5 @@
 ''' This script takes a username and password from the user and opens gmail in firefox.
-	It then logins to gmail using the above credentials, and sends a test mail to a user
+	It then logs in to gmail using the supplied credentials, and sends a test mail to a user
 	specified mail id. '''
 
 
